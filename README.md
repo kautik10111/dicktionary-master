@@ -1,1 +1,1 @@
-# dicktionary-master
+# dictionary-master
